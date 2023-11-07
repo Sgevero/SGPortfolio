@@ -121,8 +121,7 @@ h4{
 }
 .image2{ 
     float: left;
-    max-width: 80%;
-    
+    width: 200px;
     margin-left: 100px;
     margin-top: 50px;
     
