@@ -101,7 +101,7 @@ a:hover{
 /*Home design*/
 .row{
     max-width: 1300%;
-    min-height: 40%;
+    min-height: 30%;
     background-color: whitesmoke;
 }
 h3{
@@ -151,7 +151,7 @@ h4{
 /*About Me*/
 .row-2{
     max-width: 1300%;
-    min-height: 30%;
+    min-height: 25%;
 }
 .about{
     color: black;
