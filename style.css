@@ -101,7 +101,7 @@ a:hover{
 /*Home design*/
 .row{
     max-width: 1300%;
-    min-height: 80%;
+    min-height: 40%;
     background-color: whitesmoke;
 }
 h3{
@@ -121,7 +121,7 @@ h4{
 }
 .image2{ 
     float: left;
-    max-width: 55%;
+    max-width: 80%;
     height: auto;
     margin-left: 100px;
     margin-top: 50px;
@@ -260,7 +260,6 @@ h6{
 h1{
     color: black;
     font-size: 30px;
-    margin-left: 50px;
     font-family: sans-serif;
     margin-top: 10%;
 }
