@@ -151,7 +151,7 @@ h4{
 /*About Me*/
 .row-2{
     max-width: 1300%;
-    min-height: 40%;
+    min-height: 50%;
 }
 .about{
     color: black;
@@ -172,7 +172,7 @@ h6{
 .image-3{ 
     float: left;
     margin-top: 20px;
-    max-width: 250px;
+    max-width: 300px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
