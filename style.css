@@ -151,7 +151,7 @@ h4{
 /*About Me*/
 .row-2{
     max-width: 1300%;
-    height: auto;
+    min-height: 30%;
 }
 .about{
     color: black;
@@ -205,7 +205,7 @@ h6{
 /*Skills*/
 .row-3{
     max-width: 1300%;
-    height: auto;
+    min-height: 30%;
    
 }
 .par{
