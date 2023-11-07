@@ -101,7 +101,7 @@ a:hover{
 /*Home design*/
 .row{
     max-width: 1300%;
-    min-height: 40%;
+    min-height: 10%;
     background-color: whitesmoke;
 }
 h3{
@@ -122,7 +122,7 @@ h4{
 .image2{ 
     float: left;
     max-width: 300px;
-    margin-left: 100px;
+    
     margin-top: 50px;
     
 }    
@@ -150,19 +150,18 @@ h4{
 /*About Me*/
 .row-2{
     max-width: 1300%;
-    min-height: 85%;
+    min-height: 10%;
 }
 .about{
     color: black;
     font-size: 250%;
-    margin-left: 45%;
+    text-align: center;
     margin-top: 1%;
     font-family: sans-serif;
 }
 
 h6{
     float: left;
-    
     color: black;
     font-size: 250%;
     margin-top: 10%; 
@@ -203,7 +202,7 @@ h6{
 /*Skills*/
 .row-3{
     max-width: 1300%;
-    min-height: 80%;
+    min-height: 10%;
    
 }
 .par{
@@ -217,7 +216,7 @@ h6{
     float: left;
     margin-top: 25px;
     margin-left: 20%;
-    max-width: 250px;
+    max-width: 270px;
     border: 3px solid #fff;
     border-radius: 10px;
     animation: float 6s ease-in-out infinite;
