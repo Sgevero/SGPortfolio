@@ -82,7 +82,7 @@ a:hover{
 /*Responsive Design*/
 @media (max-width: 791px) {
     .containernav{
-        display: flex;
+        display: none;
     }
     /*.navbar .toggle_btn{
         display: block;
@@ -121,8 +121,8 @@ h4{
 }
 .image2{ 
     float: left;
-    max-width: 300px;
-    height: auto;
+    max-width: 80%;
+    
     margin-left: 100px;
     margin-top: 50px;
     
