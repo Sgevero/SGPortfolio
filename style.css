@@ -151,7 +151,7 @@ h4{
 /*About Me*/
 .row-2{
     max-width: 1300%;
-    min-height: 35%;
+    min-height: 30%;
 }
 .about{
     color: black;
@@ -171,7 +171,7 @@ h6{
 }
 .image-3{ 
     float: left;
-    margin-top: 25px;
+    margin-top: 20px;
     max-width: 300px;
     height: auto;
     margin-left: auto;
@@ -204,7 +204,6 @@ h6{
 }
 /*Skills*/
 .row-3{
-    margin-top: 5%;
     max-width: 1300%;
     min-height: 30%;
    
