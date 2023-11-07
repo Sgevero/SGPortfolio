@@ -121,7 +121,7 @@ h4{
 }
 .image2{ 
     float: left;
-    max-width: 80%;
+    width: 200px;
     height: auto;
     margin-left: 100px;
     margin-top: 50px;
@@ -255,7 +255,6 @@ h6{
     font-size: 20px;
     font-family: sans-serif;
     margin-top: 1%;
-    margin-left: 50px;
 }
 h1{
     color: black;
