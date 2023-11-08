@@ -84,7 +84,7 @@ a:hover{
     .containernav{
         display: none;
     }
-    .navlogo{
+    .navlogo img{
         display: block;
     }
     /*.navbar .toggle_btn{
