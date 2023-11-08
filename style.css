@@ -84,6 +84,9 @@ a:hover{
     .containernav{
         display: none;
     }
+    .navlogo{
+        display: block;
+    }
     /*.navbar .toggle_btn{
         display: block;
     }
