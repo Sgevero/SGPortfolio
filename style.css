@@ -84,9 +84,6 @@ a:hover{
     .containernav{
         display: none;
     }
-    .navlogo img{
-        display: block;
-    }
     /*.navbar .toggle_btn{
         display: block;
     }
@@ -153,6 +150,7 @@ h4{
 }
 /*About Me*/
 .row-2{
+    margin: 12px;
     max-width: 1300%;
     min-height: 25%;
 }
