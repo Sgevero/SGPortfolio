@@ -84,6 +84,9 @@ a:hover{
     .containernav{
         display: none;
     }
+    .row .row-2{
+        height: auto;
+    }
     /*.navbar .toggle_btn{
         display: block;
     }
