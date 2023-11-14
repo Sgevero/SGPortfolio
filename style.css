@@ -101,7 +101,7 @@ a:hover{
 /*Home design*/
 .row{
     max-width: 1300%;
-    max-height: 50%;
+    min-height: 30%;
     background-color: whitesmoke;
 }
 h3{
