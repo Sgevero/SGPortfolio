@@ -63,6 +63,9 @@ a:hover{
     .row .row-2 .row-3 .row-4{
         height: auto;
     }
+    .image-3 .image-4 {
+        max-width: 300px;
+    }
 }
 
 /*Home design*/
