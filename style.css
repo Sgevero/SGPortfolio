@@ -55,30 +55,6 @@ a:hover{
     display: none;
     padding-right:10px;
 }
-/*Dropdown menu
-.dropdown_menu{
-   display: none;
-    position: absolute;
-    height: 0;
-    right: 2rem;
-    top: 60px;
-    width: 300px;
-    background: rgba(82, 82, 82, 0.1);
-    backdrop-filter: blur(1px);
-    border-radius: 10px;
-    transition: height .2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.dropdown_menu.open{
-    max-height: 270px;
-    
-}
-.dropdown_menu li{
-    display: flex;
-    align-items: center;
-    
-    font-family: sans-serif;
-    font-size: 15px;
-}*/
 /*Responsive Design*/
 @media (max-width: 791px) {
     .containernav{
@@ -87,18 +63,6 @@ a:hover{
     .row .row-2{
         height: auto;
     }
-    /*.navbar .toggle_btn{
-        display: block;
-    }
-    .dropdown_menu{
-        display: block;
-    }
-}
-@media (max-width: 576px) {
-    .dropdown_menu{
-        left: 2rem;
-        width: unset;
-    }*/
 }
 
 /*Home design*/
@@ -126,7 +90,7 @@ h4{
     float: left;
     max-width: 300px;
     height: auto;
-    margin-top: 50px;
+    margin-top: 90px;
     margin-left: auto;
     
 }    
