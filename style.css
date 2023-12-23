@@ -87,18 +87,7 @@ a:hover{
     .row .row-2{
         height: auto;
     }
-    /*.navbar .toggle_btn{
-        display: block;
-    }
-    .dropdown_menu{
-        display: block;
-    }
-}
-@media (max-width: 576px) {
-    .dropdown_menu{
-        left: 2rem;
-        width: unset;
-    }*/
+
 }
 
 /*Home design*/
