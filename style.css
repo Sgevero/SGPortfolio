@@ -60,7 +60,7 @@ a:hover{
     .containernav{
         display: none;
     }
-    .row .row-2{
+    .row .row-2 .row-3 .row-4{
         height: auto;
     }
 }
