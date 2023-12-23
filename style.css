@@ -82,7 +82,7 @@ h3{
 h4{
     color: black;
     font-size: 40px;
-    margin-left: 50px;
+    margin-left: 20%;
     font-family: sans-serif;
     margin-top: 2%;
 }
@@ -98,7 +98,7 @@ h4{
     font-size: 40px;
     font-family: sans-serif;
     color:#6699cc;
-    margin-left:50px;
+    margin-left:20%;
 }
 .btn{
     display: inline-block;
