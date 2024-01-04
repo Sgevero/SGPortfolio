@@ -114,7 +114,6 @@ h4{
 }
 .btn{
     float: left;
-    display: inline-block;
     background:#b91bed;
     color: #fff;
     padding: 8px 30px;
@@ -163,7 +162,6 @@ h6{
 }  
   
 .aboutme{
-    display: block;
     float: left;
     font-size: 30px;
     font-family: sans-serif;
