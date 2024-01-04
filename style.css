@@ -64,7 +64,7 @@ a:hover{
         height: auto;
         min-height: 50%;
     }
-    .image-3 .image-4 {
+    .image-3 .image-4, .image2 {
         max-width: 300px;
         margin-left: auto;
     }
