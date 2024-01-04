@@ -163,7 +163,7 @@ h6{
 }  
   
 .aboutme{
-    float: right;
+    float: left;
     font-size: 30px;
     font-family: sans-serif;
     margin-top: 1%;
