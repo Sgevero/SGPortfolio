@@ -64,18 +64,15 @@ a:hover{
         height: auto;
         min-height: 50%;
     }
-    .image-3 .image-4 {
+    .image-3 .image-4, .image2 {
         max-width: 300px;
         margin-left: auto;
-    }    
-    .image2{
-        max-width: 150px ;
-    }    
-    }
+    }      
+}
 
 /*Home design*/
 .row{
-    max-width: 1300%;
+    max-width: 1400%;
     min-height: 80%;
     background-color: whitesmoke;
     
